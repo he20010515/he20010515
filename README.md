@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HeYuwei(@he20010515)
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning PDE,
+- 🌱 I’m currently learning NLP,GNN,
 - 📫 How to reach me, email: he20010515@163.com
 
 <!---
